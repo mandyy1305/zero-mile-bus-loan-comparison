@@ -1,0 +1,20 @@
+==========================================================================
+ELECTRIC BUS FLEET FINANCING - LENDER & REPAYMENT COMPARISON
+Zero Mile Bus Lines, Nagpur
+Principal: Rs 35 crore (25 e-buses x Rs 1.4 crore) | Prepared 18 Nov 2026
+==========================================================================
+
+1. RBI INTEREST-RATE CONTEXT (Tavily)
+Repo 6.50% through 2024 -> 6.25% (Feb-25) -> 6.00% (Apr-25) -> 5.50% (Jun-25)
+-> 5.25% (Dec-25) -> held to Aug-26 -> +25bp to 5.50% (07-Oct-26, first hike since Feb-23).
+Stance: calibrated tightening. SDF 5.25%, MSF &amp; Bank Rate 5.75%. Next MPC: 2-4 Dec 2026.
+
+2. ASSUMPTIONS
+Full Rs 35 crore financed; monthly reducing-balance eMI | no moratorium | processing fees &amp; GST excluded | rates are published bands/matrices, not firm quotes.
+
+3. LENDER COMPARISON (1.2..) - EMI is per month; interest is total over the tenure
+Lender       | Rate p.a.      | 7-yr EMI/mo       | 7-yr interest  | 10-yr EMI/mo      | 10-yr interest
+------------------------------------------------------------------------------------------------------
+SBI          | 9.10-11.55%    | Rs 56.49-Rs 50.95 lakh      | Rs 12.45 cr-Rs 16.19 cr
+
+#########################################################################
