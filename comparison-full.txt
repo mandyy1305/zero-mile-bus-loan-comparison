@@ -1,0 +1,40 @@
+==========================================================================
+ELECTRIC BUS FLEET FINANCING - LENDER & REPAYMENT COMPARISON
+Zero Mile Bus Lines, Nagpur
+Principal: Rs 35 crore (25 e-buses x Rs 1.4 crore) | Prepared 18 Nov 2026
+==========================================================================
+
+1. RBI INTEREST-RATE CONTEXT (Tavily)
+Repo 6.50% (all 2024) -> 6.25% (Feb-25) -> 6.00% (Apr-25) -> 5.50% (Jun-25)
+-> 5.25% (Dec-25) -> held to Aug-26 -> +25bp to 5.50% (07-Oct-26, first hike since Feb-23).
+Stance: calibrated tightening. SDF 5.25%, MSF & Bank Rate 5.75%. Next MPC: 2-4 Dec 2026.
+
+2. ASSUMPTIONS
+Full Rs 35 crore financed; monthly reducing-balance EMI; no moratorium;
+processing fees & GST excluded; rates are published bands/matrices, not firm quotes.
+
+3. LENDER COMPARISON (Firecrawl)  -  EMI is per month; interest is total over the tenure
+Lender       | Rate p.a.      | 7-yr EMI/mo       | 7-yr interest  | 10-yr EMI/mo      | 10-yr interest
+-------------------------------------------------------------------------------------------------------
+SBI          | 9.10-11.55%    | Rs 56.49L-Rs 60.95L | Rs 12.45cr-Rs 16.19cr | Rs 44.53L-Rs 49.31L | Rs 18.43cr-Rs 24.17cr
+HDFC Bank    | 10.75-22.50%   | Rs 59.47L-Rs 83.07L | Rs 14.95cr-Rs 34.78cr | Rs 47.72L-Rs 73.54L | Rs 22.26cr-Rs 53.25cr
+Axis Bank    | 15.00-19.25%   | Rs 67.54L-Rs 76.15L | Rs 21.73cr-Rs 28.97cr | Rs 56.47L-Rs 65.91L | Rs 32.76cr-Rs 44.09cr
+SIDBI        | 8.80-10.50%    | Rs 55.96L-Rs 59.01L | Rs 12.00cr-Rs 14.57cr | Rs 43.96L-Rs 47.23L | Rs 17.75cr-Rs 21.67cr
+IREDA        | 9.75-10.75%    | Rs 57.65L-Rs 59.47L | Rs 13.43cr-Rs 14.95cr | Rs 45.77L-Rs 47.72L | Rs 19.92cr-Rs 22.26cr
+PFC          | 9.45-10.20%    | Rs 57.11L-Rs 58.47L | Rs 12.98cr-Rs 14.11cr | Rs 45.19L-Rs 46.64L | Rs 19.23cr-Rs 20.97cr
+
+Lowest on paper: SIDBI (8.80-10.50%), but ticket capped ~Rs 1-3 crore.
+Best fit for a Rs 35 cr fleet: IREDA (9.75-10.75%, up to 80% of cost) and PFC (9.45-10.20%).
+
+4. ITEMS TO CONFIRM
+[1] Loan-to-cost: assumed 100% financing; IREDA funds up to 80% of EV-fleet cost, banks/PFC 70-80%. Confirm promoter margin.
+[2] Rates are indicative, not firm: SBI = EBLR/MCLR + spread; HDFC/Axis bands target smaller tickets; a Rs 35 cr fleet needs corporate/consortium pricing. Get written quotes.
+[3] Fixed vs floating: under calibrated tightening, floating rates may rise. Confirm resets (SBI MCLR/EBLR; PFC 1-yr vs 3-yr +25bp; IREDA matrix).
+[4] Tenure fit: IREDA caps EV-fleet at 8 years (10-yr only for charging infra); HDFC/Axis/SIDBI typically 2-7 yrs. A true 10-yr term needs corporate/infra structuring.
+[5] Fees (not in EMI): processing up to ~2% (~Rs 70 lakh on Rs 35 cr) + legal/valuation + GST on interest & charges.
+[6] Security & covenants: IREDA/PFC mortgage + hypothecation + DSRA + guarantees; banks collateral & DSCR. Confirm buses (movables) accepted as primary security.
+[7] Subsidies: check PM e-Bus Sewa / state EV subsidies / green-finance benefits.
+[8] Effective dates: PFC 01-Apr-2026; IREDA matrix 01-Oct-2026; SIDBI published PDF. Re-confirm current day.
+
+5. SOURCES
+SBI schedule; HDFC & Axis interest-rate pages; SIDBI direct-loan PDF; IREDA matrix (Oct-2026) & EV page; PFC circular (01-Apr-2026); RBI via Tavily. Bookmarked in Raindrop.io.
